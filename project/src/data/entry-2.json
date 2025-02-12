@@ -1,0 +1,28 @@
+{
+  "id": "1711408142264-4fe1caf68bd36729",
+  "date_modified": 1711416581094,
+  "date_journal": 1707156000000,
+  "timezone": "America/Lima",
+  "text": "<p dir=\"auto\">הגענו לבואנוס איירס! אחרי טיסה ארוכה ומתישה סוף סוף נחתנו. האוויר פה חם ולח, אבל ההתרגשות גדולה מכדי להתלונן.</p><p dir=\"auto\">התמקמנו בהוסטל נחמד בשכונת פלרמו. המקום מלא בתרמילאים מכל העולם, האווירה ממש טובה.</p><p dir=\"auto\">בערב יצאנו לטייל ברחובות השכונה, אכלנו אמפנדס מעולות והתחלנו להרגיש את הוייב של העיר.</p>",
+  "preview_text": "<p dir=\"auto\">הגענו לבואנוס איירס! אחרי טיסה ארוכה ומתישה סוף סוף נחתנו. האוויר פה חם ולח, אבל ההתרגשות גדולה מכדי להתלונן.</p>",
+  "mood": 1,
+  "lat": -34.5833,
+  "lon": -58.4167,
+  "address": "Palermo, Buenos Aires, Argentina",
+  "label": "",
+  "folder": "",
+  "sentiment": 1,
+  "favourite": false,
+  "music_title": "La Bamba",
+  "music_artist": "Los Lobos",
+  "photos": [],
+  "weather": {
+    "id": 800,
+    "degree_c": 28,
+    "description": "Clear sky",
+    "icon": "01d",
+    "place": "Buenos Aires"
+  },
+  "tags": ["Travel", "Food", "First Day"],
+  "type": "html"
+}

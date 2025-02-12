@@ -1,0 +1,28 @@
+{
+  "id": "1711408142264-5fe1caf68bd36730",
+  "date_modified": 1711416581095,
+  "date_journal": 1707242400000,
+  "timezone": "America/Lima",
+  "text": "<p dir=\"auto\">יום מדהים בסן טלמו! השוק הססגוני פה מטורף, כל כך הרבה צבעים וריחות.</p><p dir=\"auto\">ראינו זוגות רוקדים טנגו ברחוב, האווירה פה כל כך רומנטית ואותנטית. קנינו כמה מזכרות קטנות.</p><p dir=\"auto\">בערב הלכנו למופע טנגו מקצועי, פשוט מהמם! אי אפשר להאמין איך הם זזים.</p>",
+  "preview_text": "<p dir=\"auto\">יום מדהים בסן טלמו! השוק הססגוני פה מטורף, כל כך הרבה צבעים וריחות.</p>",
+  "mood": 2,
+  "lat": -34.6196,
+  "lon": -58.3725,
+  "address": "San Telmo, Buenos Aires, Argentina",
+  "label": "",
+  "folder": "",
+  "sentiment": 2,
+  "favourite": true,
+  "music_title": "Por Una Cabeza",
+  "music_artist": "Carlos Gardel",
+  "photos": [],
+  "weather": {
+    "id": 801,
+    "degree_c": 26,
+    "description": "Few clouds",
+    "icon": "02d",
+    "place": "Buenos Aires"
+  },
+  "tags": ["Travel", "Culture", "Tango", "Shopping"],
+  "type": "html"
+}

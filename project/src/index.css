@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    direction: rtl;
+  }
+}
+
+.prose {
+  max-width: 65ch;
+  @apply text-gray-900;
+}
+
+.prose p {
+  @apply my-4;
+}
+
+.prose h1 {
+  @apply text-2xl font-bold mb-4;
+}
+
+.prose h2 {
+  @apply text-xl font-bold mb-3;
+}
+
+.prose h3 {
+  @apply text-lg font-bold mb-2;
+}
+
+/* Leaflet map styles */
+.leaflet-container {
+  z-index: 1;
+}
+
+/* Fix RTL issues with Leaflet controls */
+.leaflet-control-container .leaflet-control {
+  direction: ltr;
+}
+
+/* Fix RTL issues with Leaflet popups */
+.leaflet-popup {
+  direction: rtl;
+}
+
+/* Ensure content doesn't overflow on mobile */
+@media (max-width: 640px) {
+  .prose {
+    font-size: 0.9375rem;
+  }
+  
+  .prose p {
+    @apply my-3;
+  }
+}
