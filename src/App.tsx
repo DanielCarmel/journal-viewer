@@ -9,7 +9,7 @@ function App() {
     const loadEntries = async () => {
       try {
         // Import all JSON files from the data directory
-        const entryModules = import.meta.glob<JournalEntry>('../../data-files/*.json', { eager: true });
+        const entryModules = import.meta.glob<JournalEntry>('../data-files/*.json', { eager: true });
         
         // Convert the modules object to an array of entries
         const loadedEntries = Object.values(entryModules);
